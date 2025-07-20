@@ -67,7 +67,6 @@ def make_coffee(drink_name, order_ingredients):
         resources[item] -= order_ingredients[item]
     print(f"Here is your {drink_name} ")
 
-
 is_on = True
 
 while True:
